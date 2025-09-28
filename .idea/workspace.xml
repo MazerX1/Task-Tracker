@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="615dc625-576d-4dec-8863-2bdd09f364fd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.env" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task_bot.py" afterDir="false" />
+    <list default="true" id="615dc625-576d-4dec-8863-2bdd09f364fd" name="Changes" comment="Создание и настрйока ТГ-бота">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task_bot.py" beforeDir="false" afterPath="$PROJECT_DIR$/task_bot.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tasks.db" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,14 +99,30 @@
       <option name="presentableId" value="Default" />
       <updated>1759033448014</updated>
       <workItem from="1759033449723" duration="3890000" />
+      <workItem from="1759037676737" duration="49000" />
+      <workItem from="1759055323662" duration="3214000" />
     </task>
+    <task id="LOCAL-00001" summary="Создание и настрйока ТГ-бота">
+      <option name="closed" value="true" />
+      <created>1759037720885</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1759037720885</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Создание и настрйока ТГ-бота" />
+    <option name="LAST_COMMIT_MESSAGE" value="Создание и настрйока ТГ-бота" />
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Task_Tracker$install_requirements.coverage" NAME="install_requirements Coverage Results" MODIFIED="1759034821948" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Task_Tracker$task_bot.coverage" NAME="task_bot Coverage Results" MODIFIED="1759058377197" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Task_Tracker$tasl_bot.coverage" NAME="task_bot Coverage Results" MODIFIED="1759037076122" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
